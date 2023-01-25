@@ -1,0 +1,24 @@
+h1{
+    color:red;
+
+}
+h3{
+    font-style: italic;
+    color:red;
+
+}
+.para{
+    color:brown;
+    background-color:yellow;
+}
+ol{
+    color:brown;
+    
+    
+}
+.para1{
+    color: brown;
+}
+.para2{
+    letter-spacing: 4px;
+}
